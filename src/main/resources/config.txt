@@ -1,3 +1,0 @@
-
-my.key = $$$$$$$my.value
-com.google = !!!!! hey ! Google
