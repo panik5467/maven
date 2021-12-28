@@ -1,6 +1,9 @@
 # maven install
 - mvn clean install
 - java -jar target\MonAppli-1.0-SNAPSHOT.jar
+```
+Hello from MainApp!
+```
 
 # maven test
 ```
